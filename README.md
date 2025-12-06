@@ -1,4 +1,4 @@
-# Teste Fullstack - NextJS + Vue 3 + PostgreSQL
+# Teste Fullstack - NestJS + Vue 3 + PostgreSQL
 
 Este projeto é uma aplicação **Fullstack** composta por:
 - **Backend**: [NestJS](https://nestjs.com/) + [TypeORM](https://typeorm.io/) + PostgreSQL  
@@ -60,6 +60,6 @@ O banco será criado automaticamente no primeiro start.
 
 ## Próximos passos
 
-[ ] Melhorar a interface do usuário
-[ ] Ajustar validações e tratamento de erros  
-[ ] Implementar testes unitários e de integração  
+- [ ] Melhorar a interface do usuário
+- [ ] Ajustar validações e tratamento de erros
+- [ ] Implementar testes unitários e de integração
