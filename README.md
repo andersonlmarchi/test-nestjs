@@ -19,7 +19,6 @@ Este projeto é uma aplicação **Fullstack** composta por:
 
 - `backend/`: Código do backend em NestJS
 - `frontend/`: Código do frontend em Vue 3 + Vite
-- `database/`: Scripts para configurar o banco de dados PostgreSQL
 
 
 ## Requisitos
